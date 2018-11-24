@@ -8,3 +8,26 @@ What value do you think it offers?
 
 The staging area gives an opportunity to commit chosen files to the repository.
 The staging area is some kind of gateway between the repository and the directory.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+The staging area is a kind of step between the directory and the repository.
+In the staging area I can track what will be commited.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches can help to test new features and if they work you can merge them together.
+
+How do the diagrams help you visualize the branch structure?
+
+Pretty good.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is one branch which has two parents.
+The diagram visualizes the branches.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Good is that you don't need to compare too very large files line by line.
+
